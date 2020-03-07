@@ -8,3 +8,9 @@ Peregrine captures your network traffic only when you have Peregrine enabled. Pe
 
 The App Store receipt of Peregrine and the device ID.
 Peregrine may use that information to verify the status of purchase and to check if you're using a pirated copy of Peregrine. The device ID is a random generated string and will be changed when system is restored. These information will not be shared with third parties.
+
+**Privacy Questions
+
+If you have any questions regarding our Privacy Policy or data processing, or if you would like to make a complaint about a possible breach of local privacy laws, please [contact us](https://github.com/freeperegrine/Peregrine/issues/new).
+
+Our Privacy Policy may change from time to time. When we change the policy, we will post the changes on this page. If the policy changes in a significant way, we will also provide a notice on our website.
