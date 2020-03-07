@@ -16,4 +16,6 @@ We are working on iOS recently, the first version will support [Vmess](https://v
 
 You can [create a new issue](https://github.com/freeperegrine/Peregrine/issues/new) to contact us.
 
-### [Privacy Policy](/Privacy)
+### Privacy Policy
+
+Please read our [privacy policy](/Privacy) carefully to get a clear understanding of how we collect, use, protect your persnal information and data.
