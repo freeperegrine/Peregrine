@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Peregrine is a free network tool.
 
 You can not use the [editor on GitHub](https://github.com/freeperegrine/peregrine/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
