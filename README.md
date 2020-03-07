@@ -1,6 +1,6 @@
 ## Peregrine is a free network tool.
 
-We are working on iOS recently, the first version will support [Vmess](https://v2ray.com/chapter_02/protocols/vmess.html). When iOS APP works, we will provide a MacOS version too.
+We are working on iOS recently, the first version will support [Vmess](https://v2ray.com/chapter_02/protocols/vmess.html), but the goal is support most popular protocols such as [SS](https://github.com/shadowsocks) [SSR]() [TROJAN](https://trojan-gfw.github.io/trojan/protocol) etc, When iOS get a stable version, we will provide a MacOS version too.
 
 
 ```markdown
@@ -23,4 +23,4 @@ Syntax highlighted code block
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can [create a new issue](https://github.com/freeperegrine/Peregrine/issues/new) to contact us.
