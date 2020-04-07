@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <button id="test">Install Surge Enterprise</button>
+  <div><a href="itms-services://?action=download-manifest&url=https://cdn.rixcloud.io/surge/Enterprise/manifest.plist">Install Surge Enterprise</a></div>
+  <script>
+    document.getElementById('test').addEventListener('click', function() {
+      this.open('itms-services://?action=download-manifest&url=https://cdn.rixcloud.io/surge/Enterprise/manifest.plist')
+      // this.openUrl("itms-services://?"+new URLSearchParams({action:"download-manifest",url:"https://cdn.rixcloud.io/surge/Enterprise/manifest.plist"}).toString())
+    })
+  </script>
+</body>
+</html>
